@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import ReactFullpage from '@fullpage/react-fullpage';
-import Fullpage from './fullpage';
+import Fullpage from './Fullpage';
 
 export default function Home() {
   <ReactFullpage
