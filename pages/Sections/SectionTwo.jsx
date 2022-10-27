@@ -4,7 +4,7 @@ import styles from '../../styles/Home.module.css'
 export default function SectionTwo() {
   return (
     <div className={styles.secTwo}>
-      <h1 className={styles.heading} >What's inside Premia</h1>
+      <h1 className={styles.heading} >What&apos;s inside Premia</h1>
       <div className={styles.cards}>
       <div className={styles.card}>
         <div className={styles.title}>
